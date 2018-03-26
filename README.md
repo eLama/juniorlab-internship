@@ -1,1 +1,1 @@
-# juniorlab-intership
+# Материалы для стажеров eLama Junior Lab
